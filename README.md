@@ -1,21 +1,6 @@
-name : RAHUL RAJ , ## Hi there 👋
-
-<!--
-**rahul25bsa10164-max/rahul25bsa10164-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...My name is `Bhavya`, and I am a first-year undergraduate student at **VIT Bhopal**.
+My name is Rahul raj, and I am a first-year undergraduate student at **VIT Bhopal**.
 
 * 🎓 **Branch:**            B.Tech CSE (Cloud Computing and Automation)
-* 🌱 **Learning Interest:** AI/ML and Cloud infrastructure
-* 🧠 **Current Focus:**     C++ and DSA 
-* 📫 **How to reach me:**   bhavyakushwaha.work@gmail.com
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 **Learning Interest:**  Cloud infrastructure
+* 🧠 **Current Focus:**     python
+* 📫 **How to reach me:**   rahul.25bsa10164@vitbhopal.ac.in
